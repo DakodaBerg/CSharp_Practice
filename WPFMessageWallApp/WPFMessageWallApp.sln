@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFMessageWall", "WPFMessageWall\WPFMessageWall.csproj", "{3CF1BEF0-B1B0-4099-9226-5E87B1FF4588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFFramworkDemo", "WPFFramworkDemo\WPFFramworkDemo.csproj", "{B4A21E6C-5F23-460C-802E-6D9B29C53F99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CF1BEF0-B1B0-4099-9226-5E87B1FF4588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF1BEF0-B1B0-4099-9226-5E87B1FF4588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF1BEF0-B1B0-4099-9226-5E87B1FF4588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF1BEF0-B1B0-4099-9226-5E87B1FF4588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A21E6C-5F23-460C-802E-6D9B29C53F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A21E6C-5F23-460C-802E-6D9B29C53F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A21E6C-5F23-460C-802E-6D9B29C53F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A21E6C-5F23-460C-802E-6D9B29C53F99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF5C5FC4-1C0F-473D-9AD6-9A6BA6F0D2B0}
+	EndGlobalSection
+EndGlobal
